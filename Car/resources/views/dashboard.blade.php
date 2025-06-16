@@ -9,8 +9,16 @@
             <a
             href="{{ url('/cars') }}"
             >
-                <button class="inline-block px-5 py-1.5 dark:text-[#EDEDEC] border-[#19140035] hover:border-[#1915014a] border text-[#1b1b18] dark:border-[#3E3E3A] dark:hover:border-[#62605b] rounded-sm text-sm leading-normal">
-                    CAR
+                 <button style="
+                    padding: 8px 16px;
+                    border: 1px solid #ccc;
+                    background-color: #f8f8f8;
+                    color: #222;
+                    border-radius: 5px;
+                    font-weight: 500;
+                    cursor: pointer;
+                    transition: all 0.2s;">
+                    🚗 Xem danh sách xe
                 </button>
             </a>
         </div>

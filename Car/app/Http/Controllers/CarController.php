@@ -42,7 +42,9 @@ class CarController extends Controller
         $validated = $request->validate([
             'carName' => 'required|max:255',
             'carBrand' => 'required|max:255',
+            'price' => 'nullable|numeric|min:0',
             'carType' => 'nullable|string',
+            'description' => 'nullable|string',
         ]);
 
         Car::create($validated);
@@ -75,7 +77,9 @@ class CarController extends Controller
         $validated = $request->validate([
             'carName' => 'required|max:255',
             'carBrand' => 'required|max:255',
+            'price' => 'nullable|numeric|min:0',
             'carType' => 'nullable|string',
+            'description' => 'nullable|string',
         ]);
 
         $car->update($validated);

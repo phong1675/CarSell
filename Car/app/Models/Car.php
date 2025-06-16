@@ -21,6 +21,8 @@ class Car extends Model
         'carName',
         'carBrand',
         'carType',
+        'price',
+        'description'
      ];
  
 }
