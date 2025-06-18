@@ -26,53 +26,65 @@ Dự án được xây dựng bằng **Laravel + Breeze** và lưu trữ dữ li
 
 ## Sơ đồ cấu trúc (Class Diagram)
 
-![alt text](image-10.png)
+![image](https://github.com/user-attachments/assets/586dd373-3cf8-40bb-a66f-3cfaf9827b7f)
+
 
 ---
 
 ### 1. Chức năng thêm xe mới
 
-![alt text](image-9.png)
+![image](https://github.com/user-attachments/assets/0b2a953c-4088-4b77-a105-8b83fb9d8a78)
+
 ---
 
 ### 2. Chức năng sửa thông tin xe
 
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/928fb71c-1dbf-491e-ae11-0a72d7a2bd38)
+
 ---
 
 ### 3. Chức năng xóa xe
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/8af2957b-3cf0-457b-a070-7c75730fcbf0)
+
 ---
 
 ### 4. Chức năng xem thông tin chi tiết xe
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/74e82279-6fed-4e37-a215-9c2df4af3de0)
+
 ---
 
 ### 5. Chức năng tìm kiếm
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/a36e2bd4-625d-4461-af6c-68e351956262)
+
 ---
 
 
 ## 📸 Ảnh chụp màn hình
 
 ### Giao diện trang chính:
-![alt text](image-7.png)
+![image](https://github.com/user-attachments/assets/6ef669d1-91d2-4640-9d5d-a5bd2dd27f02)
+
 
 ### Giao diện CRUD sản phẩm:
-![alt text](image-6.png)
+![image](https://github.com/user-attachments/assets/d6dbf25d-4ae5-4dde-b93e-7a5aad0d0721)
+
 
 ### Giao diện đăng nhập:
-![alt text](image-8.png)
+![image](https://github.com/user-attachments/assets/63c590c7-44e2-46e9-9a94-2146fabce48c)
+
 
 ---
 
 ## 💻 Code minh họa phần chính
 -  Models :  
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/87d85b9c-4c2e-4b18-923e-c31ad4785f7f)
+
 - Controller :  
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/6885c68f-1db8-4f13-bc72-979cb10e778f)
+
 - View :    
-![alt text](image-11.png)
+![image](https://github.com/user-attachments/assets/a1a80f7b-ab0a-47c1-b2bc-ce59e7f4bf27)
+
 ---
 
 ## Link Github Repository: 
